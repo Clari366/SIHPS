@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:15/05/25
+## Register Number:212224230047
+## Name:CLARISSA k
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 
